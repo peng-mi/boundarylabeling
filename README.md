@@ -5,4 +5,4 @@ features like points, lines must be labelled to convey information. The computat
 NP-hard in general. This project implements several bounday lableing algorithms based on approximation, and uses Java Swing for
 visualization.
 
-boundarylabeling
+Tech: Java, Swing
